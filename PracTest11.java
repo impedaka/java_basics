@@ -1,4 +1,6 @@
 public class PracTest11 {
-   int money = 2000;
+   public static void main(String[] args) {
+      System.out.println(0/2);
+   }
     
 }
